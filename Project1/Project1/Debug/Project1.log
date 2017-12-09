@@ -1,0 +1,12 @@
+﻿  Source.cpp
+e:\навчання\курсач\project1\project1\source.cpp(49): warning C4018: '<': signed/unsigned mismatch
+e:\навчання\курсач\project1\project1\source.cpp(259): warning C4101: 'm': unreferenced local variable
+e:\навчання\курсач\project1\project1\source.cpp(261): warning C4101: 'k': unreferenced local variable
+e:\навчання\курсач\project1\project1\source.cpp(259): warning C4101: 'naid': unreferenced local variable
+e:\навчання\курсач\project1\project1\source.cpp(259): warning C4101: 'r': unreferenced local variable
+e:\навчання\курсач\project1\project1\source.cpp(308): warning C4101: 'j': unreferenced local variable
+e:\навчання\курсач\project1\project1\source.cpp(534): warning C4101: 'r': unreferenced local variable
+e:\навчання\курсач\project1\project1\source.cpp(561): warning C4101: 'naid': unreferenced local variable
+e:\навчання\курсач\project1\project1\source.cpp(561): warning C4101: 'r': unreferenced local variable
+e:\навчання\курсач\project1\project1\source.cpp(630): warning C4102: 'km': unreferenced label
+  Project1.vcxproj -> E:\Навчання\Курсач\Project1\Debug\Project1.exe
